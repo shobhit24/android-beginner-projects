@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="hotel_bill_name">Hotel Bill Palace</string>
+    <string name="hotel_bill_addr">7A/18, W.E.A. Channa Market, Karol Bagh, New Delhi-110005</string>
+    <string name="hotel_heights_name">Hotel Palace Heights</string>
+    <string name="hotel_heights_addr">D - 26/28, Connaught Place, New Delhi - 110001</string>
+    <string name="mall_select_city_name">Select City Walk</string>
+    <string name="mall_select_city_addr">Saket, South Delhi</string>
+    <string name="mall_ambi_addr">Ambience Mall Gurgaon, National Highway - 8,Ambience Island, Gurgaon, Haryana 122002</string>
+    <string name="mall_ambi_name">Ambience Mall</string>
+    <string name="rest_dilli_name">Dilli 32</string>
+    <string name="rest_dilli_addr">Maharaja Surajmal Road | The Leela Ambience Convention Hotel, Near Yamuna Sports Complex,
+        Vivek Vihar, New Delhi 110002, India</string>
+    <string name="rest_raaj_addr">National Highway 8, Rajokri Crossing | The Umrao, D Block, Samalka, New Delhi 110038, India</string>
+    <string name="rest_raaj_name">Raajsik</string>
+    <string name="sch_greenway_name">Greenway Modern School</string>
+    <string name="sch_greenway_addr">A-210, Jhilmil Colony, Delhi</string>
+    <string name="sch_john_addr">Jawala Nagar, Shadhara	</string>
+    <string name="sch_john_name">ST. Johns Academy	</string>
+
+</resources>

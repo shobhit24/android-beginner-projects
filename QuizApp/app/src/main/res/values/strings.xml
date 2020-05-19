@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1title">Question 1</string>
+    <string name="question2title">Question 2</string>
+    <string name="question3title">Question 3</string>
+    <string name="question4title">Question 4</string>
+    <string name="question5title">Question 5</string>
+    <string name="question1">What two NBA stars did Forbes list as the highest paid athletes for 1994?</string>
+    <string name="answerMichaelJordan">Michael Jordan</string>
+    <string name="answerShaquilleONeal">Shaquille O\'Neal</string>
+    <string name="answerAbdulKareem">Abdul Kareem</string>
+    <string name="question2">In which year India got its independence?</string>
+    <string name="answer1947">1947</string>
+    <string name="answer1949">1949</string>
+    <string name="answer1941">1941</string>
+    <string name="question3">What is the national game of India?</string>
+    <string name="NationalGame">National game of India</string>
+    <string name="question4">Who said this statement\; \"A flag is not only a symbol of our independence but also the freedoms of all people.\"</string>
+    <string name="answerMahatmaGandhi">Mahatma Gandhi</string>
+    <string name="answerJawaharlalNehru">Jawaharlal Nehru</string>
+    <string name="question5">Which are Nintendo consoles?</string>
+    <string name="submit">Submit</string>
+    <string name="answerGameBoy">Game Boy</string>
+    <string name="answerPSP">PSP</string>
+    <string name="answerWii">Wii</string>
+</resources>

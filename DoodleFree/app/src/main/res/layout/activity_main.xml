@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/back_image" />
+
+    <ImageView
+        android:id="@+id/icon"
+        android:background="#3D0B92"
+        android:layout_height="100dp"
+        android:layout_width="match_parent"
+        android:paddingTop="30dp"
+        android:paddingBottom="30dp"
+        android:src="@drawable/icon"
+        android:layout_alignParentTop="true"
+        android:scaleType="centerInside" />
+
+    <TextView
+        android:id="@+id/info"
+        android:text="Contact Information :\nPhone No : +91 7055422901\nEmail : sg.shobhit.1@gmail.com"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-black"
+        android:textColor="#FFFCFC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/icon"
+        android:paddingLeft="10dp"
+        android:paddingBottom="40dp"/>
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="40dp"
+        android:text="Description :\nA digital marketing agency, working to promote businesses on social media and providing them best SEO facility."
+        android:textSize="25sp"
+        android:textColor="#FFFCFC"
+        android:textStyle="bold"
+        android:layout_below="@+id/info"/>  
+
+    <TextView
+        android:id="@+id/address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="40dp"
+        android:text="Address: C-80/6 NAPS T/SHIP "
+        android:textSize="25sp"
+        android:textColor="#FFFCFC"
+        android:textStyle="bold"
+        android:layout_below="@+id/description"/>
+
+    <TextView
+        android:id="@+id/hours"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:paddingLeft="10dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="Hours of operation : 24 X 7"
+        android:textSize="25sp"
+        android:textColor="#FFFCFC"
+        android:textStyle="bold"
+        android:layout_below="@+id/address"/>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/white"
+        android:padding="20dp"
+        android:text="CEO: Aali Verma\nCOO: Shobhit Goswami" />
+
+</RelativeLayout>
